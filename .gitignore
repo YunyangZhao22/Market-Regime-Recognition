@@ -1,0 +1,22 @@
+# 数据文件
+*.parquet
+*.csv
+*.feather
+*.h5
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 临时
+*.log
+*.tmp
